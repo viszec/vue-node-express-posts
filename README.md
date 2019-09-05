@@ -54,7 +54,7 @@ npm run build
 ```
 
 ## App Info
-> Special thanks to Brad Traversy for the course, if you want more references, you can follow his YouTube channel.
+> Special thanks to Brad Traversy for the course, if you want more references, please follow his YouTube channel.
 
 ### Author
 
@@ -76,7 +76,7 @@ This project is licensed under the MIT License
 div.container {
   max-width: 800px;
   margin: 0 auto;
-}
+  }
 
 p.error {
   border: 1px solid #ff5b5f;
