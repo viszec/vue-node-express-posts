@@ -27,7 +27,7 @@ router.delete('/:id', async (req, res) => {
 });
 
 async function loadPostsCollection() {
-    const client = await mongodb.MongoClient.connect('mongodb+srv://viszec:magrim85615@ds05092019-owgu1.mongodb.net/test', {
+    const client = await mongodb.MongoClient.connect('mongodb+srv://[username]:[password]@[your cluster].mongodb.net/test', {
         useNewUrlParser: true,
         useUnifiedTopology: true
     });
