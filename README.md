@@ -3,7 +3,7 @@
 ## Demostration
 [Demo](https://damp-badlands-22739.herokuapp.com/) Link
 
-## • Initial Backend API, Express and mongoDB
+## • Initial Backend Express API and mongoDB
 ```bash
 # Install node_modules
 npm init
