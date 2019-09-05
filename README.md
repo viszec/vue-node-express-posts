@@ -3,7 +3,7 @@
 ## Demostration
 Link -> https://damp-badlands-22739.herokuapp.com/
 
-## Initial Backend API, Express and mongoDB
+## • Initial Backend API, Express and mongoDB
 ```bash
 # Install node_modules
 npm init
@@ -18,7 +18,7 @@ npm i -D nodemon
 npm install jshint(optional)
 ```
 
-## Initial Frontend with Vuejs
+## • Initial Frontend with Vuejs
 ```bash
 # Install vue/cli
 npm i -g @vue/cli
@@ -33,7 +33,7 @@ npm i axios
 npm run serve
 ```
 
-## Quick Start
+## • Quick Start
 
 ```bash
 # Install dependencies - Project setup
@@ -54,12 +54,13 @@ npm run build
 ```
 
 ## App Info
->>>Special thanks to Brad Traversy for the course, if you want more references, you can follow his YouTube channel.
+> Special thanks to Brad Traversy for the course, if you want more references, you can follow his YouTube channel.
 
 ### Author
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
+
 [Youtube](https://www.youtube.com/watch?v=j55fHUJqtyw)
 
 ### Version
